@@ -44,7 +44,7 @@ To deploy this project run
   npm start
 ```
 
-Create a .env first which would contain
+Create a .env first which would contain  //env file is already created just add the details
 
 REACT_APP_PINATA_KEY =  
 REACT_APP_PINATA_SECRET =   
