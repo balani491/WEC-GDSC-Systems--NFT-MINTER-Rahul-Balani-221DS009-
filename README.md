@@ -50,3 +50,6 @@ REACT_APP_PINATA_KEY =
 REACT_APP_PINATA_SECRET =   
 REACT_APP_ALCHEMY_KEY = " "
 
+
+The code is in the master branch and the contract i implemented is in https://github.com/balani491/NFT-ERC-721-Contract
+
