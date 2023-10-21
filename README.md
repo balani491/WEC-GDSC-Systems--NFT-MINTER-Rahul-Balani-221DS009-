@@ -30,6 +30,8 @@ Some of the resources i used during the project:-
 
 ## Demo
 
+![](https://github.com/balani491/WEC-task-SystemsGDSC-NFT-MINTER-Rahul-Balani-221DS009-/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif)
+
 
 
 ## Deployment
